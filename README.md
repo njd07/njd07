@@ -19,7 +19,7 @@ I'm an aspiring **Software Developer** and **Tech Enthusiast**, currently pursui
 - **Interests:** Full-Stack Development, AI/ML, Open Source, DevOps
 
 ## 🌍 Connect With Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/nrishan-jyoti-das/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/nrishan-jyoti-das-8a987a304/)  
 - 📫 Email: nrishan6768@gmail.com  
 
 ## 📌 Fun Facts About Me
