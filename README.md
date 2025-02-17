@@ -15,7 +15,7 @@ I'm an aspiring **Software Developer** and **Tech Enthusiast**, currently pursui
 ## 🔧 Technologies & Tools
 - **Languages:** Python, C++, Java, JavaScript, HTML, CSS, SQL
 - **Web Development:** React (learning), Node.js (future goal)
-- **Tools & Platforms:** Git & GitHub, VS Code, Linux
+- **Tools & Platforms:** Git & GitHub, VS Code, Linux, 
 - **Interests:** Full-Stack Development, AI/ML, Open Source, DevOps
 
 ## 🌍 Connect With Me
@@ -24,7 +24,7 @@ I'm an aspiring **Software Developer** and **Tech Enthusiast**, currently pursui
 
 ## 📌 Fun Facts About Me
 - 🎬 I love watching **Thriller movies** & listening to **Songs**
-- 🚀 Passionate about **creating software that helps people**
+- 🚀 Passionate about **creating softwares that helps people**
 - 🏆 Dreaming of being a succesful developer**
 
 Thanks for visiting my profile! Let's connect and grow together! 🚀
